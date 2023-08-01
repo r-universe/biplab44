@@ -2,9 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "ctmva"]
-	path = ctmva
-	url = https://github.com/cran/ctmva
 [submodule "HDLSSkST"]
 	path = HDLSSkST
 	url = https://github.com/cran/HDLSSkST
+[submodule "ctmva"]
+	path = ctmva
+	url = https://github.com/cran/ctmva
