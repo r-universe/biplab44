@@ -5,6 +5,9 @@
 [submodule "HDLSSkST"]
 	path = HDLSSkST
 	url = https://github.com/cran/HDLSSkST
+[submodule "bvpa"]
+	path = bvpa
+	url = https://github.com/cran/bvpa
 [submodule "ctmva"]
 	path = ctmva
 	url = https://github.com/cran/ctmva
